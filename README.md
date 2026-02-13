@@ -86,8 +86,6 @@ La modulation FSK est choisie pour sa robustesse au bruit et sa simplicité d’
 - SciPy
 - Matplotlib
 
----
-
-## 📂 Structure du projet
+#
 
 
