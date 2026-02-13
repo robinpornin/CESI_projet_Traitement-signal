@@ -1,4 +1,4 @@
-# 📡 Transmission Ultrasonique Discrète — Traitement du Signal
+# Projet Traitement du Signal - Simulation d'une transmission de signaux discrète
 
 ## 🎯 Contexte
 
