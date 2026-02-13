@@ -23,16 +23,16 @@ Implémenter en Python une chaîne complète de transmission comprenant :
 
 Le système doit fonctionner pour :
 
-- ✔ Texte court
-- ✔ Texte volumineux
-- ✔ Fichier binaire
-- ✔ Signal audio
+- Texte court
+- Texte volumineux
+- Fichier binaire
+- Signal audio
 
 ---
 
 ## 🏗️ Chaîne de transmission
 
-### 🔹 Texte court
+### Texte court
 
 1. Conversion ASCII  
 2. Encodage NRZ  
@@ -44,7 +44,7 @@ Le système doit fonctionner pour :
 
 ---
 
-### 🔹 Texte long / Fichier binaire
+### Texte long / Fichier binaire
 
 1. Conversion ASCII  
 2. Encodage Miller  
@@ -56,7 +56,7 @@ Le système doit fonctionner pour :
 
 ---
 
-### 🔹 Transmission audio
+### Transmission audio
 
 1. Encodage Manchester  
 2. Modulation FM  
