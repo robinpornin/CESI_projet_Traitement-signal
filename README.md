@@ -1,4 +1,4 @@
-# Projet Traitement du Signal - Simulation d'une transmission de signaux discrète
+# Projet Traitement du Signal - Simulation d'une transmission de signaux (analogiques et numériques)
 
 ## 🎯 Contexte
 
